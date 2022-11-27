@@ -2,6 +2,20 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Vercel Deploy URL: https://react-next-google-clone.vercel.app/
+
+Tech:
+ - Next.js
+ - Tailwind.css
+ - TailwindCSS-line-clamp https://www.npmjs.com/package/@tailwindcss/line-clamp
+
+Feature:
+  - Fully Responsive Page
+  - Google Search
+  - API from google developer 
+    - https://developers.google.com/custom-search/v1/using_rest
+    - https://cse.google.com/cse/create/new
+
 First, run the development server:
 
 ```bash
